@@ -1,5 +1,5 @@
 const Discord = require("discord.js"); 
-const smsm = new Discord.Client();
+const smsm = new Discord.Client(ODk3MjQ2MzYyNDY1MzQ1NTY3.YWWYgA.J_Y74htaVCjK5hUrkvxwDNDBUzI);
 const smsm2 = new Discord.Client();
 const smsm3 = new Discord.Client();
 const smsm4 = new Discord.Client();
